@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  iMusic
+
+  Created by Javier Fernández on 6/1/21.
+  
+*/
+
+// ArtistView
+searchControllerPlaceholder = "Álbumes, Artistas, Canciones...";
+titleNavigationController = "Buscar";
+labelInfoArtistsView = "No hay resultados";
+
+titleAlertNotURL = "Error";
+messageAlertNotURL = "Búsqueda no encontrada. Inténtelo con otro nombre.";
+buttonAlertOK = "OK";
+
+// MediaPlayerView
+titleActionInfoAlertOptions = "Más Información";
+titleActionShareAlertOptions = "Compartir";
+titleActionCopyAlertOptions = "Copiar";
